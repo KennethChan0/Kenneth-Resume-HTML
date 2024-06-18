@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenneth's Resume</title>
+</head>
+<body>
+    <h1 style="text-align:center;">Chan Wai Yin </h1>
+        <h2><u>Education</h2></u>
+        <ul> 
+            <li><b>The Chinese university of Hong Kong</b> 
+        <p>September 2020 - July 2024 </p> 
+        <ul>
+            <li>Bachelor of Science in Food and Nutrition Science</li>
+            <li>CGPA :3.147</li>
+            <li>Second upper class honours</li>
+        </ul>
+        <li><b> The University of South Carolina</b></li>
+            <p>January 2024 - May 2024</span></p>
+            <ul>
+                <li>Outgoing Exchange Programme</li>
+            </ul>
+        <li><b>The University of Sydney</b></li>	
+            <p>June 2023 - July 2023</p>
+            <ul>
+                <li>United College Summer Exchange Programme </li>
+            </ul>
+        </li>
+        </ul>
+    <hr>
+    <h2>Work Experience</h2>
+    <ul>
+        <li> <b>Quality Controller</b>
+        <p>Appolo (Magic House) Superstore Limited</p>
+        <p>June 2024 - Present</p>
+        <ul>
+            <li>Conduct the quality check of raw materials, packaging materials 
+                and finished products to ensure the compliance</li>
+            <li>Routine sampling & microbiological testing of raw material to finished 
+                products</li>
+            <li>preparation of surveillance and certification audits</li>
+            <li>Assit in R&D activities</li>
+        </ul>
+    </li>
+    </ul>
+    <ul>
+        <li><b>Quality Control Internship</b>
+            <p> General Mills Hong Kong Limited</p>
+            <p>July 2023 - September 2023</p>
+        <ul> 
+            <li>Monitor, gather and report data from the production process
+            Conduct thorough inspections of raw materials and finished
+            products to ensure compliance with safety and quality standards</li>
+            <li> Conduct thorough inspections of raw materials and finished
+                products to ensure compliance with safety and quality standards</li>
+            <li> Assist in the implementation and monitoring of HACCP, ISO
+                22000 and related food safety systems</li>
+            <li>Perform regular microbial and chemical tests on food items to
+                assess quality and ensure compliance with regulatory
+                requirements</li>
+            <li> Participate in regular audits and prepare detailed reports on
+                audit findings to management</li>
+        </ul>
+        </li>
+    </ul>
+    <ul>
+        <li><b> Census Enumerator</b>
+            <p> Hong Kong Statistic and Census Department</p>
+            <p> June 2021 - August 2021</p>
+            <ul>
+                <li>Conduct telephone interviews to gather accurate demographic
+                    and population data in compliance with census protocols</li>
+                <li>Utilize computer systems and software to enter and update
+                    census data, ensuring accuracy and adherence to data privacy
+                    standards</li>
+                <li>Manage high call volumes efficiently while maintaining a
+                    professional demeanour and ensuring high-quality data
+                    collection</li>
+            </ul>
+        </li>
+    </ul>
+<hr>
+<h2>Languages</h2>
+<ul>
+    <li>Cantonese (Native)</li>
+    <li>English (Fluent)</li>
+    <li>Mandarin (Fluent) </li>
+    <li>Japanese (Elementary)</li>
+</ul>
+<hr>
+<h3>Skills</h3>
+<ul>
+    <li>Proficiency in Microsoft Office</li>
+    <li>Time management skills</li>
+    <li>Interpersonal communication skills</li>
+    <li>Problem solving skills</li>
+</ul>
+<hr>
+<h3> Other</h3>
+<a href="./4.3 HTML Porfolio Project/public/about.html">About Me</a>
+<a href="Contact">Contact</a>
+<footer>
+    <small> © Kenneth Chan. All Rights Reserved.</small>
+</footer>
+</body>
+</html>
